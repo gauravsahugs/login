@@ -1,0 +1,88 @@
+.button_group{
+        display: flex;
+        flex-direction: row;
+        position: absolute;
+align-items: center;
+top: 20px;
+left: 70%;
+    }
+
+    .button_aboutus{
+       
+        border: none;
+        background: none;
+        font-size: medium;
+    }
+    .button_contact{border: none;
+        background: none;
+        font-size: medium;}
+
+    .button_policy{border: none;
+        background: none;
+        font-size: medium;}
+
+    .button_blog{border: none;
+        background: none;
+        font-size: medium;}
+
+
+.cover{
+    height: 605.5px;
+    width: 100%;
+align-items: center;
+bottom: 0%;
+}
+
+
+.input_username{
+    position: absolute;
+    align-items: center;
+    left: 50%;
+    top: 50%;
+opacity: 0.5;
+background-color: lightgray;
+border: none;
+width: 15%;
+padding: 12px 20px;
+margin: 8px 0;
+border-radius: 30px;}
+
+.input_password{
+    position: absolute;
+    align-items: center;
+    left: 50%;
+    top: 60%;
+    opacity: 0.5;
+background-color: lightgray;
+border: none;
+width: 15%;
+padding: 12px 20px;
+margin: 8px 0;
+border-radius: 30px;
+}
+.button_login{
+    position: absolute;
+    align-items: center;
+    left: 50%;
+    top: 70%;
+border: none;
+width: 15%;
+padding: 12px 20px;
+margin: 8px 0;
+border-radius: 30px;
+background: 0.8;
+box-shadow: inset;
+}
+
+.button_login:hover{
+    background-color: lightgray;
+    opacity: 0.5;
+}
+
+.copyright{
+    position: absolute;
+    align-items: center;
+    left: 40%;
+    bottom: 10%;
+
+}
