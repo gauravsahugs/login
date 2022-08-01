@@ -70,7 +70,7 @@ width: 15%;
 padding: 12px 20px;
 margin: 8px 0;
 border-radius: 30px;
-background: 0.8;
+background: 0.3;
 box-shadow: inset;
 }
 
@@ -82,7 +82,22 @@ box-shadow: inset;
 .copyright{
     position: absolute;
     align-items: center;
-    left: 40%;
-    bottom: 10%;
+    left: 50%;
+    bottom: 3%;
 
+}
+
+.new_user{
+    position: absolute;
+    align-items: center;
+    left: 45%;
+    bottom: 15%;
+    padding: 0%;
+    display: flex;
+    
+}
+.register{
+   border: none;
+   text-decoration-color: rgb(0, 191, 255);
+    background: none;
 }
