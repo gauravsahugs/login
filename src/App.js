@@ -6,11 +6,13 @@ import About from "./Component/About";
 import Contact from "./Component/Contact";
 import Blog from "./Component/Blog";
 import Register from "./Component/Register";
+import Header from "./Component/Header";
 
 function App() {
   return (
     <BrowserRouter>
-      <div className="App">
+      <Header />
+      <div style={{}}>
         <Routes>
           <Route exact path="/" element={<Home />}></Route>
           <Route exact path="/about" element={<About />}></Route>

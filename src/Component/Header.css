@@ -1,8 +1,25 @@
+
+.header{
+    width: 100%;
+    background-color: rgb(5, 86, 86);
+    height: 50px;
+}
 .nav{
+    position: sticky;
     list-style-type: none;
     display: flex;
-    justify-content: space-between;
+    flex-direction: row;
     position: absolute;
     right: 5%;
+    z-index: 999;
+}
+
+.navbtn{
+    top: 0%;
+text-decoration: none;
+color: black;
+font-size: 18px;
+padding: 8px;
+padding-top: 0;
 
 }

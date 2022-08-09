@@ -1,0 +1,11 @@
+label{
+    width : 20%;
+
+}
+input {
+    width : 40%;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}

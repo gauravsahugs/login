@@ -1,0 +1,34 @@
+{
+    "msg": [
+        {
+            "Period": "2020-05-22T00:00:00.000Z",
+            "VariableName": "Bank Rate",
+            "Val": 4.25
+        },
+        {
+            "Period": "2020-05-22T00:00:00.000Z",
+            "VariableName": "Fix Range LAF Rates: Repo",
+            "Val": 4
+        },
+        {
+            "Period": "2020-05-22T00:00:00.000Z",
+            "VariableName": "Fix Range LAF Rates: Reverse",
+            "Val": 3.35
+        },
+        {
+            "Period": "2020-05-22T00:00:00.000Z",
+            "VariableName": "Marginal Standing Facility",
+            "Val": 4.25
+        },
+        {
+            "Period": "2020-05-22T00:00:00.000Z",
+            "VariableName": "Statutory Liquidity Ratio",
+            "Val": 18
+        },
+        {
+            "Period": "2020-05-22T00:00:00.000Z",
+            "VariableName": "Cash Reserve Ratio",
+            "Val": 4
+        }
+    ]
+}

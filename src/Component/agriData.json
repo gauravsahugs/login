@@ -1,0 +1,209 @@
+{
+    "success": true,
+    "msg": [
+        {
+            "Level1": "Agriculture",
+            "Level2": "AgriCredit"
+        },
+        {
+            "Level1": "Agriculture",
+            "Level2": "Pattern of Land Use"
+        },
+        {
+            "Level1": "Agriculture",
+            "Level2": "Agricultural Production"
+        },
+        {
+            "Level1": "Agriculture",
+            "Level2": "Selected Inputs"
+        },
+        {
+            "Level1": "Agriculture",
+            "Level2": "Public Distribution System"
+        },
+        {
+            "Level1": "Agriculture",
+            "Level2": "Yield"
+        },
+        {
+            "Level1": "Agriculture",
+            "Level2": "Minimum Support Price"
+        },
+        {
+            "Level1": "Agriculture",
+            "Level2": "Area Cultivated"
+        },
+        {
+            "Level1": "Balance of Trade",
+            "Level2": "Indian Foreign Trade"
+        },
+        {
+            "Level1": "Balance of Trade",
+            "Level2": "Imports"
+        },
+        {
+            "Level1": "Balance of Trade",
+            "Level2": "Exports"
+        },
+        {
+            "Level1": "Banking",
+            "Level2": "Cash Balances of SCB with RBI"
+        },
+        {
+            "Level1": "Banking",
+            "Level2": "Key Rates"
+        },
+        {
+            "Level1": "Banking",
+            "Level2": "Performance Indicators"
+        },
+        {
+            "Level1": "Banking",
+            "Level2": "Payment Systems"
+        },
+        {
+            "Level1": "Banking",
+            "Level2": "Sectoral Statistics"
+        },
+        {
+            "Level1": "External Sector",
+            "Level2": "International Trade"
+        },
+        {
+            "Level1": "External Sector",
+            "Level2": "External Sector Indices"
+        },
+        {
+            "Level1": "External Sector",
+            "Level2": "External Forex Reserves"
+        },
+        {
+            "Level1": "External Sector",
+            "Level2": "International Finance"
+        },
+        {
+            "Level1": "External Sector",
+            "Level2": "Balance of Payments"
+        },
+        {
+            "Level1": "Financial Institution",
+            "Level2": "Assets and Liabilities"
+        },
+        {
+            "Level1": "Financial Institution",
+            "Level2": "Financial Sector"
+        },
+        {
+            "Level1": "Financial Institution",
+            "Level2": "NBFC"
+        },
+        {
+            "Level1": "Financial Markets",
+            "Level2": "Equity and Corporate Debt Market"
+        },
+        {
+            "Level1": "Financial Markets",
+            "Level2": "Forex Market"
+        },
+        {
+            "Level1": "Financial Markets",
+            "Level2": "Money Market"
+        },
+        {
+            "Level1": "Financial Markets",
+            "Level2": "Government Securities Market"
+        },
+        {
+            "Level1": "Good and Services Tax (GST)",
+            "Level2": " E-way Bills"
+        },
+        {
+            "Level1": "Good and Services Tax (GST)",
+            "Level2": "Returns"
+        },
+        {
+            "Level1": "Good and Services Tax (GST)",
+            "Level2": "Tax Collection"
+        },
+        {
+            "Level1": "Good and Services Tax (GST)",
+            "Level2": "Registration"
+        },
+        {
+            "Level1": "Industries",
+            "Level2": "Rural and Urban Industries Principal Characteristics"
+        },
+        {
+            "Level1": "Industries",
+            "Level2": "Index of Industrial Production (IIP)"
+        },
+        {
+            "Level1": "Industries",
+            "Level2": "Major Industries Principal Characteristics"
+        },
+        {
+            "Level1": "Industries",
+            "Level2": "Annual Survey of Industries"
+        },
+        {
+            "Level1": "Industries",
+            "Level2": "Production of Select Industries"
+        },
+        {
+            "Level1": "Industries",
+            "Level2": "Type of Organisation in ASI"
+        },
+        {
+            "Level1": "Industries",
+            "Level2": "Index Numbers in Industries (in Manufacturing Sector)"
+        },
+        {
+            "Level1": "Industries",
+            "Level2": " India KLEMS Database"
+        },
+        {
+            "Level1": "Labour and Workforce",
+            "Level2": "Employment"
+        },
+        {
+            "Level1": "Labour and Workforce",
+            "Level2": "Average Daily Wages"
+        },
+        {
+            "Level1": "National Accounts",
+            "Level2": " Macroeconomic Aggregates"
+        },
+        {
+            "Level1": "National Accounts",
+            "Level2": " Capital Formation"
+        },
+        {
+            "Level1": "National Accounts",
+            "Level2": "Prices"
+        },
+        {
+            "Level1": "National Accounts",
+            "Level2": " Components of GDP (Market Prices)"
+        },
+        {
+            "Level1": "National Accounts",
+            "Level2": "Monetary Statistics"
+        },
+        {
+            "Level1": "National Accounts",
+            "Level2": " Domestic Savings"
+        },
+        {
+            "Level1": "Public Finance",
+            "Level2": "State Finance"
+        },
+        {
+            "Level1": "Public Finance",
+            "Level2": "Central Finance"
+        },
+        {
+            "Level1": "Public Finance",
+            "Level2": "Centre and State Finance Combined"
+        }
+    ]
+}

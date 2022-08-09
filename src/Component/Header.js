@@ -4,17 +4,28 @@ import "./Header.css";
 
 function Header() {
   return (
-    <div>
+    <div className="header">
       <ul className="nav">
         <li>
-          <Link to="/about">About</Link> |
+          <Link to="/" className="navbtn">
+            Home
+          </Link>
         </li>
-        <li>
-          <Link to="/blog">Blog</Link> |
+        <li className="navbtn">
+          <Link to="/about" className="navbtn">
+            About
+          </Link>
         </li>
-        <li>
-          <Link to="/contact">Contact Us</Link>
-        </li>{" "}
+        <li className="navbtn">
+          <Link to="/blog" className="navbtn">
+            Blog
+          </Link>
+        </li>
+        <li className="navbtn">
+          <Link to="/contact" className="navbtn">
+            Contact Us
+          </Link>
+        </li>
       </ul>
     </div>
   );

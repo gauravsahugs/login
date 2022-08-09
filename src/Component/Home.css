@@ -1,38 +1,7 @@
-.button_group{
-        display: flex;
-        flex-direction: row;
-        position: absolute;
-align-items: center;
-top: 20px;
-left: 70%;
-    }
-
-    .button_aboutus{
-       
-        border: none;
-        background: none;
-        font-size: medium;
-    }
-    .button_contact{border: none;
-        background: none;
-        font-size: medium;}
-
-    .button_policy{border: none;
-        background: none;
-        font-size: medium;}
-
-    .button_blog{border: none;
-        background: none;
-        font-size: medium;}
-
-
 .cover{
-    height: 605.5px;
     width: 100%;
-align-items: center;
-bottom: 0%;
+    height: calc(100vh - 54px);
 }
-
 
 .input_username{
     position: absolute;
@@ -96,8 +65,10 @@ box-shadow: inset;
     display: flex;
     
 }
-.register{
-   border: none;
-   text-decoration-color: rgb(0, 191, 255);
-    background: none;
+
+.registerbtn{
+    text-decoration: none;
+    padding-left: 2px ;
+    font-weight: 50%;
+
 }
